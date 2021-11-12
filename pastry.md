@@ -1,16 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Who am I ?
+title: Pastry
+subtitle: Why not try something different?
 ---
 
-My name is Alexandre Lutt. I am currently a first-year master's student at Ecole des Ponts ParisTech, where I study Applied Mathematics and Computer Science.
-
-## Education
-
-| Year      | Diploma                                                | Location                                  |
-| --------- | ------------------------------------------------------ | ----------------------------------------- |
-| 2022      | Master of Mathematics in Data Science (Erasmus)        | Technische Universität München (Munich)   |
-| 2020-2022 | Engineering degree                                     | École des Ponts (Champs-sur-Marne)        |
-| 2018-2020 | Scientific preparatory classes (MPSI-MP)               | Lycée Henri-IV (Paris)                    |
-| 2015-2018 | High-school curriculum                                 | Lycée Richelieu (Rueil-Malmaison)         |
+When my code doesn't work, I usually try to relax in the kitchen... It rarely helps with the code, but it always ends up with sweet pastries for me and my friends.
