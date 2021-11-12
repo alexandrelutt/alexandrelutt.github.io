@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Who am I ?
+title: Teaching
+subtitle: Who doesn't like teaching?
 ---
 
-My name is Alexandre Lutt. I am currently a first-year master's student at Ecole des Ponts ParisTech, where I study Applied Mathematics and Computer Science.
+I really enjoy teaching. You'll find here resources I find useful to help students practice and/or understand mathematics. I try to update it as frequently as possible.
 
-## Education
+**Preparatory classes (MPSI)**
 
-| Year      | Diploma                                                | Location                                  |
-| --------- | ------------------------------------------------------ | ----------------------------------------- |
-| 2022      | Master of Mathematics in Data Science (Erasmus)        | Technische Universität München (Munich)   |
-| 2020-2022 | Engineering degree                                     | École des Ponts (Champs-sur-Marne)        |
-| 2018-2020 | Scientific preparatory classes (MPSI-MP)               | Lycée Henri-IV (Paris)                    |
-| 2015-2018 | High-school curriculum                                 | Lycée Richelieu (Rueil-Malmaison)         |
+- Oral exercises (../_assets/pdfs/Exercices_MPSI.pdf)
+- First week (../_assets/pdfs/Colles_semaine_1.pdf)
+- Second week (../_assets/pdfs/Colles_semaine_2.pdf)
+- Third week (../_assets/pdfs/Colles_semaine_3.pdf)
