@@ -40,7 +40,6 @@ social-network-links:
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
   github: alexandrelutt
   facebook: alexandre.lutt.1
-  twitter: evian_drinker
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
@@ -70,7 +69,7 @@ social-network-links:
 share-links-active:
   linkedin: true
   facebook: true
-  twitter: true
+  github: true
   vk: false
 
 # How to display the link to your website in the footer
