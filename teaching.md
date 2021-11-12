@@ -4,7 +4,7 @@ title: Teaching
 subtitle: Who doesn't like teaching?
 ---
 
-I really enjoy teaching. You'll find here resources I find useful to help students practice and/or understand mathematics. I try to update it as frequently as possible.
+I really enjoy teaching. You'll find here resources I find useful to help students practice and/or understand mathematics. Unfortunately, most of is only available in French...
 
 **Preparatory classes (MPSI)**
 
