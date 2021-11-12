@@ -69,7 +69,6 @@ social-network-links:
 share-links-active:
   linkedin: true
   facebook: true
-  github: true
   vk: false
 
 # How to display the link to your website in the footer
