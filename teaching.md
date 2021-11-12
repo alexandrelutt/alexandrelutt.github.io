@@ -8,7 +8,7 @@ I really enjoy teaching. You'll find here resources I find useful to help studen
 
 **Preparatory classes (MPSI)**
 
-- Oral exercises (assets/pdfs/Exercices_MPSI.pdf)
-- First week (assets/pdfs/Colles_semaine_1.pdf)
-- Second week (assets/pdfs/Colles_semaine_2.pdf)
-- Third week (assets/pdfs/Colles_semaine_3.pdf)
+- [Oral exercises](assets/pdfs/Exercices_MPSI.pdf)
+- [First week](assets/pdfs/Colles_semaine_1.pdf)
+- [Second week](assets/pdfs/Colles_semaine_2.pdf)
+- [Third week](assets/pdfs/Colles_semaine_3.pdf)
