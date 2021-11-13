@@ -4,4 +4,4 @@ title: About me
 subtitle: Who am I ?
 ---
 
-My name is Alexandre Lutt. I am currently a second year engineering student at [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr). I love cooking and especially baking, so feel free to have a look at my recipes [here](https://alexandrelutt.github.io/pages/pastry/).
+My name is Alexandre Lutt. I am currently a French engineering student at [Ecole des Ponts ParisTech](https://www.ecoledesponts.fr). I love cooking and especially baking, so feel free to have a look at my recipes [here](https://alexandrelutt.github.io/pages/pastry/).
