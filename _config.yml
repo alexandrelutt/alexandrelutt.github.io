@@ -14,9 +14,9 @@ author: Alexandre Lutt
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Teaching: "teaching"
-  Pastry: "pastry"
+  About Me: "pages/aboutme"
+  Teaching: "pages/teaching"
+  Pastry: "pages/pastry"
 
 # --- Logo --- #
 
