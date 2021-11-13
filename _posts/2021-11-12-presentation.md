@@ -1,5 +1,6 @@
 ---
 layout: post
+cover-img: /assets/img/seychelles.jpeg
 title: Where are you ?
 subtitle: What can you find here ?
 ---
