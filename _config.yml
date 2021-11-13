@@ -15,7 +15,7 @@ author: Alexandre Lutt
 
 navbar-links:
   About Me: "pages/aboutme"
-  Geo Visu: "geo-visu-webapp/main"
+  GeoLocalizer: "geo-visu-webapp/main"
   Teaching: "pages/teaching"
   Pastry: "pages/pastry"
 
