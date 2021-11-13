@@ -20,4 +20,4 @@ I really enjoy teaching. You'll find here resources I find useful to help studen
 
 **Highschool**
 
-- [Baccalaureat training exam](assets/pdfs/DS_1_Terminale.pdf)
+- [Probability and numerical sequences, training exam](assets/pdfs/DS_1_Terminale.pdf)
