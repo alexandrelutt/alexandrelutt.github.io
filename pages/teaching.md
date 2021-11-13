@@ -12,3 +12,8 @@ I really enjoy teaching. You'll find here resources I find useful to help studen
 - [First week](assets/pdfs/Colles_semaine_1.pdf)
 - [Second week](assets/pdfs/Colles_semaine_2.pdf)
 - [Third week](assets/pdfs/Colles_semaine_3.pdf)
+- [Fourth week](assets/pdfs/Colles_semaine_4.pdf)
+- [Fifth week](assets/pdfs/Colles_semaine_5.pdf)
+- [Sixth week](assets/pdfs/Colles_semaine_6.pdf)
+- [Seventh week](assets/pdfs/Colles_semaine_7.pdf)
+- [Eighth week](assets/pdfs/Colles_semaine_8.pdf)
