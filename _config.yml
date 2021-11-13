@@ -6,7 +6,7 @@
 # --- Required options --- #
 
 # Name of website
-title: Synapse
+title: Au Relais Croustillant
 
 # Your name to show in the footer
 author: Alexandre Lutt
@@ -15,7 +15,6 @@ author: Alexandre Lutt
 
 navbar-links:
   About Me: "pages/aboutme"
-  Teaching: "pages/teaching"
   Pastry: "pages/pastry"
 
 # --- Logo --- #
@@ -37,18 +36,18 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "alexandre.lutt@eleves.enpc.fr"
-  linkedin: alexandre-lutt
+  email: "alexlutt@orange.fr"
+#  linkedin: alexandre-lutt
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  github: alexandrelutt
-  facebook: alexandre.lutt.1
+#  github: alexandrelutt
+#  facebook: alexandre.lutt.1
 #  patreon: DeanAttali
 #  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
+  snapchat: au_relais_croustillant
 #  instagram: deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -69,9 +68,7 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  linkedin: false
-  facebook: false
-  vk: false
+  instagram: true
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
