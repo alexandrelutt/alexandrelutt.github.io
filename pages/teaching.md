@@ -17,3 +17,7 @@ I really enjoy teaching. You'll find here resources I find useful to help studen
 - [Sixth week](assets/pdfs/Colles_semaine_6.pdf)
 - [Seventh week](assets/pdfs/Colles_semaine_7.pdf)
 - [Eighth week](assets/pdfs/Colles_semaine_8.pdf)
+
+**Highschool**
+
+- [Baccalaureat training exam](assets/pdfs/DS_1_Terminale.pdf)
