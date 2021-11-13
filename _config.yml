@@ -15,7 +15,6 @@ author: Alexandre Lutt
 
 navbar-links:
   About Me: "pages/aboutme"
-  GeoLocalizer: "pages/main"
   Teaching: "pages/teaching"
   Pastry: "pages/pastry"
 
