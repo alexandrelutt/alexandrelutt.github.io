@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Pastry
-subtitle: Why not try something different?
+title: Recipes
+subtitle: Why not try something new?
 ---
 
-When my code doesn't work, I usually try to relax in the kitchen... It rarely helps, but at least I always end up with sweet treats to share with my friends. You'll find here most of my recipes:
+You'll find here most of my recipes:
 
 - [Chocolat chip and walnut cookies](https://alexandrelutt.github.io/2021-11-13-cookies/)
