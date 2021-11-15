@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Madeleines!
-subtitle: Estimated time : 20min
+subtitle: Around 20min
 thumbnail-img: /assets/img/madeleines_2.jpg
 comments: true
 ---
