@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Madeleines!
-subtitle: The ideal individual cake to end your meal
+subtitle: ~ 20min
 thumbnail-img: /assets/img/madeleines_2.jpg
 comments: true
 ---
