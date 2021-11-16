@@ -2,13 +2,13 @@
 layout: post
 title: Madeleines!
 subtitle: ~ 20min
-thumbnail-img: /assets/img/madeleines_2.jpg
+thumbnail-img: /assets/img/madeleines_1.jpg
 comments: true
 ---
 
 Looking for something quick and easy to bake to impress your friends and family? This madeleine recipe is made for you!
 
-![Panna cotta](/assets/img/madeleines_11.jpg){: .mx-auto.d-block :}
+![Panna cotta](/assets/img/madeleines_1.jpg){: .mx-auto.d-block :}
 
 For 24 madeleines, you'll need:
 
