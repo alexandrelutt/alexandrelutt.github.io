@@ -1,8 +1,8 @@
 - selector: madeleines_slider
   captions: true
   images:
-    - src: /assets/img/madeleines_1.jpg
-      alt: image one
     - src: /assets/img/madeleines_2.jpg
+      alt: image one
+    - src: /assets/img/madeleines_1.jpg
       alt: image two
   settings:
