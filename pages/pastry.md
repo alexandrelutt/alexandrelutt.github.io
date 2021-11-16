@@ -8,3 +8,4 @@ You'll find here most of my recipes:
 
 - [Chocolat chip and walnut cookies](https://au-relais-croustillant.com/2021-09-18-cookies/)
 - [Lemon madeleines](https://au-relais-croustillant.com/2021-09-05-madeleines/)
+- [Red fruits panna cotta](https://au-relais-croustillant.com/2021-05-02-panna_cotta/)
