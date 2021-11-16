@@ -6,6 +6,8 @@ thumbnail-img: /assets/img/madeleines_2.jpg
 comments: true
 ---
 
+<link rel="stylesheet" href="slider.css">
+
 Looking for something quick and easy to bake to impress your friends and family? This madeleine recipe is made for you!
 
 <div class="slider">
