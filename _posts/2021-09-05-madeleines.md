@@ -8,7 +8,9 @@ comments: true
 
 Looking for something quick and easy to bake to impress your friends and family? This madeleine recipe is made for you!
 
-![Madeleines](/assets/img/madeleines_2.jpg){: .mx-auto.d-block : width=50% }
+<div>
+    <img class="center" src="/assets/img/madeleines_2.jpg" alt="centered image" />
+</div>
 
 For 24 madeleines, you'll need:
 
