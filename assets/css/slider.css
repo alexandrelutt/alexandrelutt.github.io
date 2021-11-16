@@ -3,14 +3,14 @@ body {
 }
 
 .slider {
-  width: 540px;
+  width: 1080px;
   margin: 30px auto;
   position: relative;
 }
 
 .slider-viewport {
-  width: 540px;
-  height: 540px;
+  width: 1080px;
+  height: 1080px;
   overflow: hidden;
 }
 
@@ -20,8 +20,8 @@ body {
   transition: 1s all;
 }
 .slider-content img {
-  width: 540px;
-  height: 540px;
+  width: 1080px;
+  height: 1080px;
 }
 
 .slider-nav {
@@ -45,5 +45,5 @@ body {
 }
 
 #img2:target .slider-content {
-  transform: translateX(-540px);
+  transform: translateX(-1080px);
 }
