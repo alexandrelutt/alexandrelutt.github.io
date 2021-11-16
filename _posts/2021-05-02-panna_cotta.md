@@ -2,13 +2,13 @@
 layout: post
 title: Panna cotta!
 subtitle: ~ 5h15
-thumbnail-img: /assets/img/panna_cotta.jpg
+thumbnail-img: /assets/img/panna_cotta_1.jpg
 comments: true
 ---
 
 Looking for an easy Italian dessert recipe for summer dinners? You're in the right place!
 
-![Panna cotta](/assets/img/panna_cotta.jpg){: .mx-auto.d-block :}
+![Panna cotta](/assets/img/panna_cotta_1.jpg){: .mx-auto.d-block :}
 
 For 6 panna cotta, you'll need:
 
