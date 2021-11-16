@@ -8,24 +8,7 @@ comments: true
 
 Looking for something quick and easy to bake to impress your friends and family? This madeleine recipe is made for you!
 
-<link rel="stylesheet" href="slider.css">
-
-<div class="slider">
-  <div class="slider-viewport">
-    <div id="img1">
-      <div id="img2">
-      	<div class="slider-content">
-          <img src="https://au-relais-croustillant.com/assets/img/madeleines_1.jpg">
-          <img src="https://au-relais-croustillant.com/assets/img/madeleines_2.jpg">
-        </div>
-      </div>
-    </div>
-  </div>
-  <div class="slider-nav">
-    <a href="#img1"></a>
-    <a href="#img2"></a>
-  </div>
-</div>
+![Madeleines](/assets/img/madeleines.jpg){: .mx-auto.d-block :}
 
 For 24 madeleines, you'll need:
 
