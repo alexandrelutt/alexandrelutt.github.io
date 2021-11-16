@@ -4,7 +4,8 @@ title: Madeleines!
 subtitle: ~ 20min
 thumbnail-img: /assets/img/madeleines_2.jpg
 comments: true
-image_sliders: example_slider
+image_sliders:
+  - example_slider
 ---
 
 Looking for something quick and easy to bake to impress your friends and family? This madeleine recipe is made for you!
