@@ -14,7 +14,7 @@ For 24 madeleines, you'll need:
 
 - 200g of all-purpose flour
 - 150g of sugar
-- 5cl of whole milk
+- 5cL of whole milk
 - 100g of melted butter
 - 10g of baking powder
 - 3 eggs
