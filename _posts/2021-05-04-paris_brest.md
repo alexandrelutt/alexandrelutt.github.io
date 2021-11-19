@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Paris Brest!
-subtitle: ~ 5h15
+subtitle: ~ 1h30
 thumbnail-img: /assets/img/paris_brest.jpg
 comments: true
 ---
