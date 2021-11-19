@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/madeleines_1.jpg
 comments: true
 ---
 
-Looking for something quick and easy to bake to impress your friends and family? This madeleine recipe is made for you!
+Looking for something quick and easy to bake to impress your friends and family? This madeleines recipe is made for you!
 
 ![Panna cotta](/assets/img/madeleines_1.jpg){: .mx-auto.d-block :}
 
