@@ -21,7 +21,14 @@ For one large carrot cake, you'll need:
 - 1/2 teaspoon of allspice
 - 2 teaspoons of cinnamon	
 - 2 teaspoons of baking soda
+- 1 pinch of sea salt
+
+For the icing, you'll need:
+
+- 100g of cream cheese
+- 200g of icing sugar
 
 <div style="text-align: justify">
-<p> Start by mixing the flour, the baking soda, the grated carrots and the oil. In a separate bowl, mix the eggs and the sugars, and add this mixture to your dry ingredients. Add your spices, poor your mixture in a greased cake mold, and bake one hour at 150°C. </p>
+<p> Start by mixing the flour, the baking soda, the grated carrots and the oil. In a separate bowl, mix the eggs and the sugars, and add this mixture to your dry ingredients. Add your spices, the salt, poor your mixture in a greased cake mold, and bake one hour at 150°C. </p>
+<p> While your cake is cooling off, prepare your icing by mixing the cream cheese and the icing sugar. Unmold your cake when it reaches room temperature, add your icing and you're done, congrats! </p>
 </div>
