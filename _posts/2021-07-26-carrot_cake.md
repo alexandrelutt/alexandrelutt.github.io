@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/carrot_cake.jpg
 comments: true
 ---
 
-This the traditional American recipe for an amazing carrot cake. Perfect for breakfasts or afternoon snacks!
+This the traditional American recipe for an amazing carrot cake. Perfect for breakfast or afternoon snacks!
 
 ![Carrot cake](/assets/img/carrot_cake.jpg){: .mx-auto.d-block :}
 
