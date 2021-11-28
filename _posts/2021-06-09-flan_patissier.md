@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Flan!
-subtitle: ~ 5h15
+subtitle: ~ 3h
 thumbnail-img: /assets/img/flan.jpg
 comments: true
 ---
