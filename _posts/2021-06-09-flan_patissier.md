@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Flan!
+title: Flan pâtissier!
 subtitle: ~ 3h
 thumbnail-img: /assets/img/flan.jpg
 comments: true
