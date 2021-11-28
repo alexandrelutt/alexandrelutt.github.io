@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Spritz!
+title: Macarons!
 subtitle: ~ 3h
 thumbnail-img: /assets/img/macaron_chocolat_1.jpg
 comments: true
@@ -8,7 +8,7 @@ comments: true
 
 You love macarons but you think they're too hard to make all by yourself? Don't worry, it's not, and I'm going to help you make the fanciest desert ever.
 
-![Flan](/assets/img/macaron_chocolat_5.jpg){: .mx-auto.d-block :}
+![Macarons](/assets/img/macaron_chocolat_5.jpg){: .mx-auto.d-block :}
 
 For 32 macarons, you'll need:
 
