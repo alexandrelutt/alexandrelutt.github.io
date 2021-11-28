@@ -14,3 +14,5 @@ You'll find here most of my recipes:
 - [Pancakes](https://au-relais-croustillant.com/2021-04-30-pancakes/)
 - [Paris Brest](https://au-relais-croustillant.com/2021-05-04-paris_brest/)
 - [Red fruits panna cotta](https://au-relais-croustillant.com/2021-05-02-panna_cotta/)
+- [Pancakes](https://au-relais-croustillant.com/2021-04-30-pancakes/)
+- [Spritz](https://au-relais-croustillant.com/2021-03-21-spritz/)
