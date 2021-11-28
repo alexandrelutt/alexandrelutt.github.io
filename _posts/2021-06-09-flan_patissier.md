@@ -6,7 +6,7 @@ thumbnail-img: /assets/img/flan.jpg
 comments: true
 ---
 
-This is the classic French recipe for the *flan pâtissier* It takes a bit of patience, but trust me, it's totally worth it...
+This is the classic French recipe for the *flan pâtissier*. It does take a bit of patience, but trust me, it's totally worth it...
 
 ![Flan](/assets/img/flan.jpg){: .mx-auto.d-block :}
 
