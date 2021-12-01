@@ -22,5 +22,6 @@ For 60 chouquettes, you'll need:
 
 <div style="text-align: justify">
 
-<p> For the choux pastry, start by preheating your oven to at 200°C. Bring the water and the butter to a boil, and then add the salt, the sugar and the flour. Work this dough-to-be until it's dry (it should not stick to the edges of the saucepan), remove your saucepan from the heat, and add the eggs one by one while mixing. You should now get a sticky and shiny choux pastry! You did the hardest part already! Now, put your choux pastry in a piping bag, and make small choux (ideally, they should have a 4cm diameter) on a baking sheet. Add your pearl sugar, bake your chouquettes at 200°C for 20 minutes. and you're done, congratulations! Enjoy your chouquettes while they last! Be careful though, they usually are really addictive... </p>
+<p> For the choux pastry, start by preheating your oven to at 200°C. Bring the water and the butter to a boil, and then add the salt, the sugar and the flour. Work this dough-to-be until it's dry (it should not stick to the edges of the saucepan), remove your saucepan from the heat, and add the eggs one by one while mixing. You should now get a sticky and shiny choux pastry! You did the hardest part already!</p>
+<p> Now, put your choux pastry in a piping bag, and make small choux (ideally, they should have a 4cm diameter) on a baking sheet. Add your pearl sugar, bake your chouquettes at 200°C for 20 minutes. and you're done, congratulations! Enjoy your chouquettes while they last! Be careful though, they usually are really addictive... </p>
 </div>
