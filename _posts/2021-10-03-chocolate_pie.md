@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chocolate and salted butter caramel pie!
-subtitle: ~ 1h20
+subtitle: ~ 3h
 thumbnail-img: /assets/img/tarte_chocolat.jpg
 comments: true
 ---
@@ -21,10 +21,15 @@ For 8 small pies, you'll need:
 
 For the filing, you'll need:
 
-- 100g of cream cheese
-- 200g of icing sugar
+- 160g of sugar
+- 80g of salted butter
+- 400mL of cream
+- 200g of dark chocolate
+- 1 egg
 
 <div style="text-align: justify">
-<p> Start by mixing the flour, the baking soda, the grated carrots and the oil. In a separate bowl, mix the eggs and the sugars, and add this mixture to your dry ingredients. Add your spices, the salt, poor your mixture in a greased cake mold, and bake one hour at 150°C. </p>
-<p> While your cake is cooling off, prepare your icing by mixing the cream cheese and the icing sugar. Unmold your cake when it reaches room temperature, add your icing and you're done, congrats! </p>
+<p> Start by making your dough. Mix together the soft butter and the icing sugar until you get a creamy consistency. Add your egg, mix well and add the flour, the salt and the almond powder. Don't be shy, you can use your hands to form the dough at this point. Once you get something homogenous, roll it down between two baking sheets, and let it cool down for 30 minutes to 1 hour in the fridge. Once it's done, preheat your oven at 170°C, form your individual pies and bake them for 15 to 20 minutes, or until they have a nice golden colour.</p>
+<p> While the individual pies are baking, let's make our salted butter caramel. Put your sugar on medium high heat, and don't touch it until it forms a nice caramel. Then, carefully add 200mL of your preheated cream and mix well. There should be bubbles, it's completely normal. Once things have calmed down a little, add your butter, lower the head and keep mixing. Once you reach your second boiling point, you can pour your caramel in a small jar! See? It was easier than you expected! </p>
+<p> Now, let's make your chocolate filling: the ganache. Cut your chocolate into small pieces, bring the rest of the cream to a boil, and gently pour it one your chocolate. Add your egg, and mix well without adding any air bubble (I suggest using a hand blender for this one). </p>
+<p> It's time to finish your pies. Add some caramel at the bottom, then poor your chocolate ganache, and let it cool down in the fridge for 2 to 3 hours. Just before serving, add as much caramel as you like, a pinch of salt, and enjoy! </p>
 </div>
