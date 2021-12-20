@@ -6,7 +6,7 @@ subtitle: Why not try something new?
 
 You'll find here most of my recipes. Don't be shy, have a look and try something out!
 
-- [Croissants](https://au-relais-croustillant.com/2021-12-20-croissants/)
+- [Croissants](https://au-relais-croustillant.com/2021-12-19-croissants/)
 - [Chocolat chip and walnut cookies](https://au-relais-croustillant.com/2021-09-18-cookies/)
 - [Lemon madeleines](https://au-relais-croustillant.com/2021-09-05-madeleines/)
 - [Carrot cake](https://au-relais-croustillant.com/2021-07-26-carrot_cake/)
