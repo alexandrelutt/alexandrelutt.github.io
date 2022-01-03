@@ -1,7 +1,6 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  <link href="favicon.ico" rel="shortcut icon" type="image/x-icon" />
 
   {% capture title %}
     {%- if page.share-title -%}
@@ -23,9 +22,9 @@
       {{ page.content | strip_html | xml_escape | truncatewords: excerpt_length | strip }}
     {%- endif -%}
   {% endcapture %}
-  
+
   <title>{{ title }}</title>
-  
+
   {% if site.author %}
   <meta name="author" content="{{ site.author }}">
   {% endif %}
