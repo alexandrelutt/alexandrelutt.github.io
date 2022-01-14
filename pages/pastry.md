@@ -6,6 +6,7 @@ subtitle: Why not try something new?
 
 You'll find here most of my recipes. Don't be shy, have a look and try something out!
 
+- [Galette des rois](https://au-relais-croustillant.com/2022-01-06-galette/)
 - [Croissants](https://au-relais-croustillant.com/2021-12-19-croissants/)
 - [Chocolate and salted butter caramel pie](https://au-relais-croustillant.com/2021-10-03-chocolate_pie/)
 - [Chocolate chip and walnut cookies](https://au-relais-croustillant.com/2021-09-18-cookies/)
