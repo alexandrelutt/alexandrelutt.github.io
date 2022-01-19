@@ -26,7 +26,7 @@ For the filling, you'll need:
 - 20g of cornstarch
 - 125g of soft butter
 - 3 egg yolks
-- 250mL of whole Milk
+- 250mL of whole milk
 
 <div style="text-align: justify">
 
