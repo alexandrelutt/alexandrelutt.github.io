@@ -9,7 +9,7 @@ You'll find here most of my recipes. Don't be shy, have a look and try something
 - [Galette des rois](https://au-relais-croustillant.com/2022-01-06-galette/)
 - [Croissants](https://au-relais-croustillant.com/2021-12-19-croissants/)
 - [Chocolate and salted butter caramel pie](https://au-relais-croustillant.com/2021-10-03-chocolate_pie/)
-- [Chocolate chip and walnut cookies](https://au-relais-croustillant.com/2021-09-18-cookies/)
+- [Cookies](https://au-relais-croustillant.com/2021-09-18-cookies/)
 - [Saint-Honoré](https://au-relais-croustillant.com/2021-09-13-st_honore/)
 - [Lemon madeleines](https://au-relais-croustillant.com/2021-09-05-madeleines/)
 - [Carrot cake](https://au-relais-croustillant.com/2021-07-26-carrot_cake/)
