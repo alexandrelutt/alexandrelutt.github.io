@@ -16,8 +16,8 @@ For 24 financiers, you'll need:
 - 120g of flour
 - 300g of icing sugar
 - 120g of melted butter
-- 8 eggs
+- 8 egg whites
 
 <div style="text-align: justify">
-<p> Start by preheating your oven at 200°C. Then, mix the almond powder, the flour and the icing sugar. In the meantime, melt your butter in the microwave and let it cool down by the side. The, add the eggs to your dry mix, poor your butter and mix until you get an homogeneous mixture. Poor it in individual molds, and bake for 18 minutes at 200°C. Congrats, you just made your first <i> financiers </i>! Easy, right? </p>
+<p> Start by preheating your oven at 200°C. Then, mix the almond powder, the flour and the icing sugar. In the meantime, melt your butter in the microwave and let it cool down by the side. The, add the egg whites to your dry mix, poor your butter and mix until you get an homogeneous mixture. Poor it in individual molds, and bake for 18 minutes at 200°C. Congrats, you just made your first <i> financiers </i>! Easy, right? </p>
 </div>
