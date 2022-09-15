@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Blueberry muffins!
-subtitle: ~ 20min
+subtitle: ~ 30min
 thumbnail-img: /assets/img/blueberry_muffins.jpg
 comments: true
 ---
