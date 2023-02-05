@@ -37,5 +37,5 @@ For the <i>crème Chantilly</i>, you'll need:
 <p> Finally, preheat your oven at 200°C, and roll out your dough one last time until it's roughly 4mm thick. Bake it between two baking trays for 15 minutes, and you're finally done with your puff pastry, congratulations! Now, wait for it to cool down, and cut it in 3 even pieces.</p>
 <p> For the custard, bring the milk to a simmer, and, while it's heating, mix the eggs and the cornstarch. Then, poor half of the hot milk on the eggs, whisk well and poor your mixture back in your saucepan. Keep on mixing until you get a thick consistency. Turn off the heat, add the cold butter and poor it on a flat plate. Then, let it cool down in the fridge for a couple of hours. </p>
 <p> Once your custard is cold, put it in a piping bag, and alternate one layer of custard between each layer of puff pastry.</p>
-<p> For the <i> crème Chantilly </i>, beat the cream and slowly incorporate the powdered sugar. Then, put it in a piping bag, and decorate your <i>mille-feuilles</i> with LOTS of <i> crème Chantilly </i>. Enjoy!
+<p> For the <i> crème Chantilly </i>, beat the cream and slowly incorporate the powdered sugar. Then, put it in a piping bag, and decorate your <i>mille-feuilles</i> with LOTS of <i> crème Chantilly </i>. Enjoy! </p>
 </div>
