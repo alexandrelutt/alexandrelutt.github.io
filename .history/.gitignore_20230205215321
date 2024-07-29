@@ -2,7 +2,6 @@
 _site
 .sass-cache
 .vagrant
-_posts/.history
 
 # general
 .DS_Store
