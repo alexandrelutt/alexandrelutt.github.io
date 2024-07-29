@@ -2,6 +2,7 @@
 _site
 .sass-cache
 .vagrant
+.history
 _posts/.history
 
 # general
