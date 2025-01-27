@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Carrot cake!
-subtitle: ~ 1h20
+title: Banana bread!
+subtitle: ~ 1h30
 thumbnail-img: /assets/img/banana_bread.jpg
 comments: true
 ---

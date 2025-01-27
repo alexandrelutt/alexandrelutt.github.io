@@ -6,8 +6,10 @@ subtitle: Why not try something new?
 
 You'll find here most of my recipes. Don't be shy, have a look and try something out!
 
+- [Banana bread](https://au-relais-croustillant.com/2025-01-26-banana_bread/)
 - [Blueberry muffins](https://au-relais-croustillant.com/2022-03-24-blueberry_muffins/)
 - [Carrot cake](https://au-relais-croustillant.com/2021-07-26-carrot_cake/)
+- [Chocolate fondant](https://au-relais-croustillant.com/2022-09-27-fondant_chocolat/)
 - [Chocolate mousse](https://au-relais-croustillant.com/2021-05-10-chocolate_mousse/)
 - [Chocolate pie](https://au-relais-croustillant.com/2021-10-03-chocolate_pie/)
 - [Chouquettes](https://au-relais-croustillant.com/2021-04-27-chouquettes/)

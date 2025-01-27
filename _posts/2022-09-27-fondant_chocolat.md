@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chocolate fondant!
-subtitle: ~ 1h20
+subtitle: ~ 20min
 thumbnail-img: /assets/img/fondant_chocolat.jpg
 comments: true
 ---
